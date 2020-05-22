@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IS</string>
+
+    <string name="signup">do_not_have_account_signup</string>
+    <string name="enter_password">password</string>
+    <string name="enter_username">username</string>
+    <string name="Do_not_have_account_signup">Do_not_have_account_signup</string>
+    <string name="login">login</string>
+    <string name="name">Name</string>
+    <string name="signup2">Signup</string>
+    <string name="disease_diagnose">Disease_diagnose</string>
+    <string name="doctors">Doctors</string>
+    <string name="med_shop">Med_shop</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="todo">TODO</string>
+    <string name="medicine_name">Medicine Name</string>
+</resources>
